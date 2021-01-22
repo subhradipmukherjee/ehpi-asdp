@@ -152,7 +152,7 @@ Acknowledges Tunnel errors and attempts to gracefully close the socket, else thr
 
 Attempts to connect to target URI and establish a tunnel.
 
-#### Parameters
+#### Parameter
 
 -   `requestOptions` **[Object](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object)** The host, port, path, method, and header values.
 -   `socket` **[Object](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object)** The socket used for SYN operation.
