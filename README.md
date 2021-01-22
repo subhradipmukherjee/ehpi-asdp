@@ -161,7 +161,7 @@ Attempts to connect to target URI and establish a tunnel.
 
 Utility function that writes input to socket.
 
-#### Parameters
+#### Parameter
 
 -   `socket` **[Object](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object)** The socket used for SYN operation.
 -   `code` **[number](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Number)** The HTTP status code.
