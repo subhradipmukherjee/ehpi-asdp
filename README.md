@@ -95,11 +95,11 @@ Server's port number.
 
 Server's internal error event handler.
 
-#### onBeforeRequest
+#### onBefore-request
 
 Server's before request event handler.
 
-#### onBeforeResponse
+#### onBefore-response
 
 Server's before response event handler.
 
@@ -111,7 +111,7 @@ Server's request error event handler.
 
 Starts the Proxy Server.
 
-#### requestHandler
+#### requestHandlers
 
 Server's global request handler.
 
@@ -161,7 +161,7 @@ Attempts to connect to target URI and establish a tunnel.
 
 Utility function that writes input to socket.
 
-#### Parameter
+#### Parameters
 
 -   `socket` **[Object](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object)** The socket used for SYN operation.
 -   `code` **[number](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Number)** The HTTP status code.
