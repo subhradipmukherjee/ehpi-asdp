@@ -67,7 +67,7 @@ Used to access internal Socket APIs.
 
 ### url
 
-Used to parse host information.
+Used to parse host info. 
 
 ### Cache
 
@@ -131,7 +131,7 @@ Handles SYN operation back to socket after connection is established, else throw
 
 ### requestRemote
 
-Initiates request from the Proxy server for the requested resource.
+Initiates request from the Proxy Server for the requested resource.
 
 #### Parameters
 
